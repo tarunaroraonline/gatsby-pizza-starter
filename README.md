@@ -57,7 +57,7 @@ export default Date;
 
 inside ${tw``} you define tailwind styles, and outside you can use ordinary styled components style, including ThemeUI pre-defined colors.
 
-For tailwind classes customization, use tailwind.config.js* in root of your project. Refer to official [tailwind docs](https://tailwindcss.com/docs/configuration/). Don't forget to import gatsby-theme-california tailwind config. 
+For tailwind classes customization, use tailwind.config.js* in root of your project. Refer to official [tailwind docs](https://tailwindcss.com/docs/configuration/). Don't forget to import gatsby-starter-pizza tailwind config. 
 
 *changes of this file my require reload of gatsby development server(due to current twin.macro limitations)
 
