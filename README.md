@@ -7,6 +7,7 @@
 Starter designed for delivery business
 
 [Demo](https://pizza.gatsbytemplates.io/)
+
 [More themes](https://gatsbytemplates.io/)
 ## Installation
 
