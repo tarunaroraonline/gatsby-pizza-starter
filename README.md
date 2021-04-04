@@ -31,7 +31,7 @@ npm i
 * Order form with [GetForm](https://getform.io/) integration
 * Cart animation
 
-## Items edit
+## Items editing
 
 All pizzas located in content folder, you can edit it as mdx files. Currently used only info from frontmatter
 
